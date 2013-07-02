@@ -1,0 +1,6 @@
+//
+// Prefix header for all source files of the 'MeasureImporter' target in the 'MeasureImporter' project
+//
+
+#ifdef __OBJC__
+#endif
